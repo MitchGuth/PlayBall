@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Play Ball</string>
+    <string name="home">Home</string>
+    <string name="away">Away</string>
+    <string name="reset">RESET</string>
+    <string name="initial_zero">0</string>
+    <string name="initial_one">1</string>
+    <string name="team_b">Team B</string>
+    <string name="team_a">Team A</string>
+    <string name="img_description">https://openclipart.org/download/278127/Baseball-Illustration.svg</string>
+</resources>

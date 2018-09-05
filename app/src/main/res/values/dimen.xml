@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="parent_margin">8dp</dimen>
+    <dimen name="panel_padding">8dp</dimen>
+    <dimen name="panel_text">16sp</dimen>
+    <dimen name="score_number">64sp</dimen>
+    <dimen name="inning_number">40sp</dimen>
+    <dimen name="team_text">24sp</dimen>
+    <dimen name="inning_text">16sp</dimen>
+    <dimen name="outs_text">16sp</dimen>
+    <dimen name="outs_number">24sp</dimen>
+</resources>
